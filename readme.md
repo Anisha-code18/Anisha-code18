@@ -84,16 +84,6 @@ class Anisha:
 
 ## 🌟 Featured Project
 
-<div align="center">
-
-<a href="https://github.com/Anisha-code18/Blood-Link">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anisha-code18&repo=Blood-Link&theme=radical&hide_border=true" />
-
-</a>
-
-</div>
-
 ### 🩸 BloodLink — ML-Based Blood Donor-Recipient Matching System
 
 An ML-based application designed to assist in matching blood donors with recipients based on multiple compatibility and availability factors.
@@ -169,21 +159,6 @@ Small projects and exercises from my Python learning journey.
 | 📊 Data Analytics Job Simulation | Deloitte |
 | ✨ Generative AI Workshop | NxtWave |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anisha-code18&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha-code18&theme=radical&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-code18&layout=compact&theme=radical&hide_border=true" />
-
-</div>
 
 ---
 
