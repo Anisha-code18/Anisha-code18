@@ -1,68 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Hi%20There,%20I'm%20Anisha%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Undergraduate%20%7C%20Building%20ML%20Systems%20That%20Solve%20Real%20Problems&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=210&section=header&text=Hi%20there,%20I'm%20Anisha%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Machine%20Learning%20Undergraduate&descAlignY=57&descSize=17" width="100%" />
 
 <br>
 
 <a href="https://linkedin.com/in/anisha-927534342">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:anisha78523@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/Anisha-code18">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Anisha-code18&style=for-the-badge&color=764ba2&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/CGPA-9.36%20%2F%2010-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Anisha-code18&style=flat-square&color=764ba2&label=Profile+Views" />
+&nbsp;
+<img src="https://img.shields.io/badge/CGPA-9.36%2F10-764ba2?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=flat-square" />
 
 </div>
 
 <br>
 
-## 🎯 About Me
+## 👋 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+I'm **Anisha**, a third-year **Artificial Intelligence and Machine Learning** undergraduate at **Alva's Institute of Engineering & Technology, Moodbidri**, with a **9.36/10 CGPA**.
 
-🎓 Third-year **AI & Machine Learning** undergraduate at Alva's Institute of Engineering & Technology, Moodbidri — maintaining a **9.36/10 CGPA**.
+I enjoy turning ideas into practical software — especially projects where **machine learning, data, and real-world problems** come together.
 
-🩸 Built **BloodLink**, an end-to-end ML system that matches blood donors with recipients using compatibility scoring, geographic proximity, and eligibility rules — deployed as a working Flask web app.
-
-💡 Genuinely curious about how ML systems go from notebook to production. I like projects with a real-world use case, not just a leaderboard score.
-
-📚 Learn something new in Python almost every week, and I keep a running trail of small projects to prove it (see below 👇).
-
-📫 **anisha78523@gmail.com** — always happy to talk AI/ML, data science, or collaboration.
-
-</td>
-<td width="40%" valign="top">
+Currently, I'm working on **BloodLink**, an ML-based blood donor-recipient matching system, while continuing to strengthen my foundations in Python, machine learning, data science, and software development.
 
 ```python
 class Anisha:
-    def __init__(self):
-        self.role     = "AI & ML Undergraduate"
-        self.college  = "AIET, Moodbidri"
-        self.cgpa     = 9.36
-        self.building = "BloodLink 🩸"
-        self.stack    = [
-            "Python", "Scikit-learn",
-            "Pandas", "Flask", "MongoDB"
-        ]
-        self.status   = "Learning → Shipping"
+    role = "AI & ML Undergraduate"
+    college = "AIET, Moodbidri"
+    cgpa = 9.36
 
-    def say_hi(self):
-        return "Let's build something 🚀"
+    interests = [
+        "Machine Learning",
+        "Data Science",
+        "Software Development"
+    ]
+
+    currently_building = "BloodLink 🩸"
+
+    goal = "Learn → Build → Improve → Ship"
 ```
 
-</td>
-</tr>
-</table>
+> **I like building things that are useful, understandable, and actually work.**
 
 ---
 
@@ -70,18 +61,22 @@ class Anisha:
 
 <div align="center">
 
-**Languages & Tools**
+### Languages & Development
 
 <img src="https://skillicons.dev/icons?i=python,java,html,css,flask,git,github,vscode" />
 
-**AI / ML & Data Science**
+<br><br>
+
+### Machine Learning & Data
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 
-**Databases**
+<br><br>
+
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
@@ -91,87 +86,80 @@ class Anisha:
 
 ## 🌟 Featured Project
 
-### 🩸 BloodLink — ML-Based Blood Donor–Recipient Matching System
 
-> An intelligent matching engine that pairs blood donors with recipients by weighing compatibility, distance, eligibility, and recency — turning a manual, error-prone process into a fast, data-driven one.
+### 🩸 BloodLink
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**ML-Based Blood Donor–Recipient Matching System**
 
-**🔬 What it does**
-- 🩸 Blood-type compatibility scoring
-- 📍 Geographic proximity matching
-- ✅ Real-time donor eligibility checks
-- 🕐 Donation recency tracking
-- 🤖 Random Forest classification model
-- 📊 Custom feature engineering pipeline
-- 🗃️ Synthetic dataset: **200 donors · 50 recipients** across major Indian cities
-- 🌐 Full Flask web application, not just a script
+BloodLink is an end-to-end machine learning application designed to help match blood donors with recipients using multiple factors instead of relying only on blood group compatibility.
 
-</td>
-<td valign="top" width="50%">
+### What I worked on
 
-**🧰 Built with**
+- 🩸 Blood-type compatibility
+- 📍 Geographic proximity
+- ✅ Donor eligibility
+- 🕐 Donation recency
+- 🤖 Random Forest classification
+- 📊 Feature engineering
+- 🗃️ Synthetic dataset generation
+- 🌐 Flask web application
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /><br>
+The current dataset contains **200 donors and 50 recipients** across major Indian cities.
+
+### Built with
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 
-**Why it matters:** it's not a toy dataset exercise — it models a real logistics problem (matching under compatibility + proximity + urgency constraints) end-to-end, from data generation to a usable interface.
+</div>
 
-</td>
-</tr>
-</table>
+**Repository:**  
+<a href="https://github.com/Anisha-code18/Blood-Link">View BloodLink on GitHub →</a>
 
 ---
 
 ## 📚 Learning Journey
 
-I treat every small project as a rep — here's the trail of practice that built up to BloodLink.
+I started with small Python programs and gradually moved toward data analysis, machine learning, and complete applications.
+
+### 🐍 Python Practice
+
+- String manipulation
+- String slicing
+- String functions
+- Palindrome programs
+- Armstrong number programs
+- Control structures
+- Basic Python games
+- File handling
+- Directory handling
+
+### 📊 Data Science Practice
+
+- NumPy
+- Pandas
+- Matplotlib
+- Data analysis exercises
+- Basic visualization
+- Programming problems
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Strings-Practice-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Control%20Structures-Practice-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/File%20Handling-Practice-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<br><br>
-<img src="https://img.shields.io/badge/Pandas-Practice-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-Practice-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
 
 </div>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**🐍 Core Python**
-- 🔤 String manipulation
-- 🔢 Armstrong number
-- 🔄 Palindrome checker
-- ✂️ String slicing
-- 🧩 String functions
-- 🎮 Basic Python games
-
-</td>
-<td valign="top" width="50%">
-
-**📊 Data Handling**
-- 📁 Directory / file handling
-- 🐼 Pandas exercises
-- 📊 Matplotlib exercises
-- 💻 Programming practice problems
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 🎯 Certifications & Training
+## 🎓 Certifications & Training
 
 | Certification | Provider |
 |---|---|
@@ -180,20 +168,7 @@ I treat every small project as a rep — here's the trail of practice that built
 | 📊 Data Analytics Job Simulation | Deloitte |
 | ✨ Generative AI Workshop | NxtWave |
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anisha-code18&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=764ba2&icon_color=667eea" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-code18&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=764ba2" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha-code18&theme=radical&hide_border=true&background=0d1117&ring=764ba2&fire=f093fb" />
-
-</div>
 
 ---
 
@@ -203,34 +178,69 @@ I treat every small project as a rep — here's the trail of practice that built
 
 <img src="https://img.shields.io/badge/Machine%20Learning-764ba2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Science-667eea?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model%20Deployment-6f42c1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
-## 💡 What's Next
+---
 
-- 🚀 Ship more end-to-end ML projects (not just notebooks)
-- 🧠 Go deeper on ML fundamentals — model evaluation, deployment, MLOps basics
-- 📊 Sharpen data storytelling and analytics skills
-- 🤝 Contribute to open-source AI/ML projects
-- 💼 Looking for **internship / entry-level AI-ML roles** where I can learn fast and ship real things
+## 🎯 What's Next
+
+- 🚀 Build more end-to-end ML applications
+- 🧠 Strengthen machine learning fundamentals
+- 📊 Improve data analysis and visualization
+- ⚙️ Learn more about deployment and MLOps
+- 🤝 Contribute to open-source projects
+- 💼 Explore AI/ML internship opportunities
 
 ---
 
+## 💬 A Few Words
+
 <div align="center">
 
-### 🤝 Let's Connect
+**Curious about AI.**
 
-If you're working on something in AI/ML, data, or just want to talk shop — my inbox is open.
+**Interested in data.**
 
-**📫 anisha78523@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/anisha-927534342) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Anisha-code18)**
+**Always building something.**
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+If you're interested in **AI/ML, data science, software development, or collaboration**, feel free to reach out.
 
 <br>
 
-### ✨ Thanks for stopping by! ✨
+<a href="mailto:anisha78523@gmail.com">
+<img src="https://img.shields.io/badge/Email-anisha78523%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=100&section=footer" width="100%" />
+<a href="https://linkedin.com/in/anisha-927534342">
+<img src="https://img.shields.io/badge/LinkedIn-Anisha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Anisha-code18">
+<img src="https://img.shields.io/badge/GitHub-Anisha--code18-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<sub>Thanks for visiting my profile ✨</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=110&section=footer" width="100%" />
 
 </div>
